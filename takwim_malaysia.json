@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "name": "Maulidur Rasul Last",
+      "date_hijri": "28-9-2023"
+    },
+    {
+      "name": "Isra' Mi'raj",
+      "date_hijri": "8-2-2024"
+    },
+    {
+      "name": "Nisfu Sya'ban",
+      "date_hijri": "25-2-2024"
+    },
+    {
+      "name": "Puasa",
+      "date_hijri": "12-3-2024"
+    },
+    {
+      "name": "Nuzul Qur'an",
+      "date_hijri": "28-3-2024"
+    },
+    {
+      "name": "Aidilfitri",
+      "date_hijri": "10-4-2024"
+    },
+    {
+      "name": "1 Zulhijjah",
+      "date_hijri": "8-6-2024"
+    },
+    {
+      "name": "Aidiladha",
+      "date_hijri": "17-6-2024"
+    },
+    {
+      "name": "1 Muharram",
+      "date_hijri": "7-7-2024"
+    },
+    {
+      "name": "Maulidur Rasul",
+      "date_hijri": "16-9-2024"
+    }
+  ]
+}
